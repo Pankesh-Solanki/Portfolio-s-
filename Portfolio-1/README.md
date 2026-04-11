@@ -1,4 +1,4 @@
-![Logo](images/rr.png)
+![Logo](images/rd.png)
 
 # Pankesh Portfolio Showcase 💻
 
