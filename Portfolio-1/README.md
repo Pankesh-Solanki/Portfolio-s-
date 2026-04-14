@@ -47,12 +47,6 @@ This project is licensed under the terms described in the [LICENSE](LICENSE) fil
 
 ---
 
-## 🚀 How to Use / Customize
-
-1. **Clone the repository:**
-
- ---
-
 ## 📬 Contact
 
 - Email: contact@pankesh.in  
